@@ -1,7 +1,6 @@
 
 # DSRF Conformance Checker
 
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
 
 THIS IS AN EXPERIMENTAL PACKAGE. DSRF PACKAGE HASN'T BEEN UPDATED SINCE 2020
 ## Overview
@@ -18,7 +17,7 @@ The DSRF Conformance Checker is a tool designed and prepared by DDEX. The orygin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/musictechlab/mtl-ddex-flatfilevalidator.git
+   git clone https://github.com/msmenzyk/mtl-ddex-flatfilevalidator.git
    cd mtl-ddex-flatfilevalidator
    ```
 
